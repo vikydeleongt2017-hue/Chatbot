@@ -2,7 +2,7 @@ voila
 ipywidgets
 pandas
 notebook
- "cells": [
+ "cells":
   {
    "cell_type": "code",
    "execution_count": 1,

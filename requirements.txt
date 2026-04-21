@@ -1,7 +1,8 @@
 voila
 ipywidgets
 pandas
-notebook{
+notebook
+{
  "cells": [
   {
    "cell_type": "code",

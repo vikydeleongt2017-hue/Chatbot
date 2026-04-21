@@ -2,7 +2,6 @@ voila
 ipywidgets
 pandas
 notebook
-{
  "cells": [
   {
    "cell_type": "code",
